@@ -34,6 +34,6 @@ Output
 ------
 * The result of the examples above:
 1. All options for a 16 digits credit card number.
-![All Options Card Number](https://github.com/eldardamari/credit-card-generator/blob/master/img/gen_cc_num1.png)
+![All Options Card Number](https://github.com/eldardamari/credit-card-generator/blob/master/img/gen_cc_num1.jpg)
 2. A custom first 6 digits number.
-![Custom Card Number](https://github.com/eldardamari/credit-card-generator/blob/master/img/gen_cc_num2.png)
+![Custom Card Number](https://github.com/eldardamari/credit-card-generator/blob/master/img/gen_cc_num2.jpg)
