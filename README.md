@@ -34,9 +34,8 @@ Output
 ------
 The result of the examples above:
 1) All options for a 16 digits credit card number.
-    <!--![solarized selective contrast]
-    (https://github.com/ng)-->
-
+    ![solarized selective contrast]
+    (https://github.com/eldardamari/credit-card-generator/blob/master/gen_cc_num(Card).png)
 2) A custom first 6 digits number.
-    <!--![solarized selective contrast]
-    (https://github.com/altercation/solarized/raw/master/img/solarized-selcon.png)-->
+    ![solarized selective contrast]
+    (https://github.com/eldardamari/credit-card-generator/blob/master/gen_cc_num(%5B4%2C5%5D%2CCard).png)
