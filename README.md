@@ -20,20 +20,20 @@ Manual
 ------
 ```
 Allowed Options:
-   1) ?- gen_cc_num(?Atom).
-   2) ?- gen_cc_num(+List,?Atom).
+   1. ?- gen_cc_num(?Atom).
+   2. ?- gen_cc_num(+List,?Atom).
 ```
 
 Usage
 -----
-1) ``` gen_cc_num(Card). ```
-2) ``` gen_cc_num([4,5],Card). ```
+1. ``` gen_cc_num(Card). ```
+2. ``` gen_cc_num([4,5],Card). ```
 * use ```;``` for next option.
 
 Output
 ------
 The result of the examples above:
-1) All options for a 16 digits credit card number.
-    ![All Options Card Number](https://github.com/eldardamari/credit-card-generator/blob/master/gen_cc_num(Card).png)
-2) A custom first 6 digits number.
-    ![Custom Card Number](https://github.com/eldardamari/credit-card-generator/blob/master/gen_cc_num(%5B4%2C5%5D%2CCard).png)
+1. All options for a 16 digits credit card number.
+![All Options Card Number](eldardamari.github.com/credit-card-generator/img/gen_cc_num(Card).png)
+2. A custom first 6 digits number.
+![Custom Card Number](eldardamari.github.com/credit-card-generator/img/gen_cc_num(%5B4%2C5%5D%2CCard).png)
